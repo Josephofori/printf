@@ -4,7 +4,7 @@
  * handl_buff - concatenates the buffer characters
  * @buf: buffer pointer
  * @c: charcter to concatenate
- * @ibuf: index 
+ * @ibuf: index
  * Return: buffer pointer index.
  */
 unsigned int handl_buff(char *buf, char c, unsigned int ibuf)

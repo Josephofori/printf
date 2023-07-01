@@ -2,7 +2,7 @@
 
 /**
  * get_print_funct - select function for specific operation.
- * @s: argument 
+ * @s: argument
  * @index: index argument
  * Return: pointer to a function.
  */

@@ -2,9 +2,9 @@
 
 /**
  * print_bnr - prints the number to binary
- * @arguments: input 
+ * @arguments: input
  * @buf: pointer
- * @ibuf: index 
+ * @ibuf: index
  * Return: chars that will be printed.
  */
 int print_bnr(va_list arguments, char *buf, unsigned int ibuf)

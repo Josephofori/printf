@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * print_str - print string 
- * @arguments: input 
+ * print_str - print string
+ * @arguments: input
  * @buf: pointer
  * @ibuf: index for buffer pointer
  * Return: success-1.

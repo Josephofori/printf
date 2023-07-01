@@ -4,7 +4,7 @@
  * print_int - prints the integer
  * @arguments: input
  * @buf: pointer
- * @ibuf: index 
+ * @ibuf: index
  * Return: chars printed.
  */
 int print_int(va_list arguments, char *buf, unsigned int ibuf)

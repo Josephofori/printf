@@ -2,7 +2,7 @@
 
 /**
  * print_hex - prints to hexadecimal
- * @arguments: input 
+ * @arguments: input
  * @buf: pointer
  * @ibuf: index
  * Return: char printed
