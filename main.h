@@ -27,6 +27,7 @@ int print_oct(va_list arguments, char *buf, unsigned int ibuf);
 int print_hex(va_list arguments, char *buf, unsigned int ibuf);
 int print_int(va_list arguments, char *buf, unsigned int ibuf);
 int print_bnr(va_list arguments, char *buf, unsigned int ibuf);
+int print_prg(va_list __attribute__((unused)), char *, unsigned int);
 unsigned int handl_buff(char *buf, char c, unsigned int ibuf);
 int print_buff(char *buf, unsigned int nbuf);
 int (*get_print_funct(const char *s, int index))(va_list, char *, unsigned int);
